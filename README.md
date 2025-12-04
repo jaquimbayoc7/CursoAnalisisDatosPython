@@ -11,6 +11,9 @@ A través de ejemplos prácticos y explicaciones detalladas, este curso te ense�
 - Preprocesar datos para modelos de machine learning.
 - Entrenar, evaluar y visualizar modelos de regresión lineal simple y múltiple.
 
+## 📜 Enlace a Vídeos
+[Accede a la carpeta en OneDrive](https://1drv.ms/f/c/1bb90464e00ae32f/IgBKMeoCHNDAQ79_5oH844VnAQjK31t2IRVyLQfxeYg2RD4?e=QmCbVp)
+
 ## 📚 Contenido del Curso
 
 El curso está estructurado en los siguientes notebooks, que avanzan en complejidad:
